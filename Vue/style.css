@@ -1,0 +1,43 @@
+/* reset css */
+* {
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    color: #152935;
+    background-color: #f4f7fb;
+}
+
+.container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    line-height: 1.4rem;
+}
+
+h2 {
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+
+.left-nav {
+    flex: 0 0 300px;
+    height: 100%;
+    padding: 20px;
+}
+
+.right-nav {
+    flex: 1 0 1px;
+    height: 100%;
+    padding: 20px;
+}
+
+.left-nav a {
+    display: block;
+}

@@ -1,0 +1,8 @@
+{
+    "data": [
+        { "id": 0, "label": "Document 1" },
+        { "id": 1, "label": "Document 2" },
+        { "id": 2, "label": "Document 3" },
+        { "id": 3, "label": "Document 4" }
+    ]
+}
